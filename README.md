@@ -2,4 +2,4 @@
 - HTML 5
 * CSS 3
 
-can you view [My project](privetandrei228.github.io/project-1/)
+can you view [My project](https://privetandrei228.github.io/Project-1/)
